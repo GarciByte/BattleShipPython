@@ -1,4 +1,4 @@
-# Battleship - Juego de Batalla Naval en Red
+# Battleship
 
 Battleship es un juego de batalla naval en red desarrollado en Python. Se juega entre dos jugadores que se conectan a través de una arquitectura cliente-servidor. Cada jugador coloca sus barcos en un tablero y luego se turnan para disparar, intentando hundir la flota del oponente.
 
